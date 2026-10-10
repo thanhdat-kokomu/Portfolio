@@ -1,0 +1,63 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 5 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 2710 >>
+stream
+q 0.5 w
+BT /F1 22 Tf 60 795 Td (DUONG THANH DAT) Tj ET
+BT /F1 12 Tf 60 776 Td (Fullstack / Backend Developer) Tj ET
+BT /F1 10 Tf 60 758 Td (Dong Hy, Thai Nguyen  |  0398831101  |  duongthanhdat05122007@gmail.com) Tj ET
+BT /F1 10 Tf 60 744 Td (github.com/thanhdat-kokomu) Tj ET
+BT /F1 15 Tf 60 712 Td (MUC TIEU NGHE NGHIEP) Tj ET
+BT /F1 10 Tf 60 694 Td (Recently graduated in Software Development \(FPT Polytechnic\) with a foundation in Java) Tj ET
+BT /F1 10 Tf 60 680 Td (\(Spring Boot 3.x\), Vue 3 \(Pinia/Tailwind\) and SQL Server database design.) Tj ET
+BT /F1 10 Tf 60 666 Td (Short-term: apply hands-on project experience \(RESTful API, JWT security, POS/QR Code\).) Tj ET
+BT /F1 10 Tf 60 652 Td (Long-term: grow system architecture thinking, expand to TypeScript/Node.js as a fullstack engineer.) Tj ET
+BT /F1 15 Tf 60 620 Td (TECH STACK) Tj ET
+BT /F1 10 Tf 60 602 Td (Backend: Java 17, Spring Boot 3.x, Spring Security, JWT, Spring Data JPA, RESTful API) Tj ET
+BT /F1 10 Tf 60 588 Td (Frontend: Vue 3, Pinia, Tailwind CSS, Vuetify, JavaScript \(ES6+\), HTML5/CSS3) Tj ET
+BT /F1 10 Tf 60 574 Td (Database & Tools: MS SQL Server, Git/GitHub, Postman, Swagger UI, Vite, IntelliJ IDEA, VS Code) Tj ET
+BT /F1 15 Tf 60 542 Td (KINH NGHIEM LAM VIEC) Tj ET
+BT /F1 11 Tf 60 524 Td (IKU STUDIOS - Backend Developer Intern \(2025\)) Tj ET
+BT /F1 10 Tf 60 510 Td (IKUS Task Manager - Project & Task Management API) Tj ET
+BT /F1 10 Tf 72 496 Td (- Designed MS SQL Server schema with CHECK, Composite Unique Keys, ON DELETE CASCADE.) Tj ET
+BT /F1 10 Tf 72 482 Td (- Built RESTful APIs with Spring Boot 3.x + Spring Data JPA, Global Exception Handling.) Tj ET
+BT /F1 10 Tf 72 468 Td (- Spring Security & JWT RBAC \(ROLE_USER, ROLE_MANAGER\); docs via Swagger UI & Postman.) Tj ET
+BT /F1 11 Tf 60 446 Td (Graduation Project DATN-SU26 - ShopAo \(2026\)) Tj ET
+BT /F1 10 Tf 60 432 Td (ShopAo - Sportswear Management & Commerce System) Tj ET
+BT /F1 10 Tf 72 418 Td (- Fullstack: variant/order module + Vue 3/Vuetify admin dashboard \(Pinia\).) Tj ET
+BT /F1 10 Tf 72 404 Td (- POS with QR code: backend QR generation + camera scanning on the POS screen.) Tj ET
+BT /F1 10 Tf 72 390 Td (- One of 3 core developers: code review, cross-testing, conflict/bug handling.) Tj ET
+BT /F1 15 Tf 60 358 Td (HOC VAN) Tj ET
+BT /F1 11 Tf 60 340 Td (FPT Polytechnic College - Software Development \(2025 - 2026\)) Tj ET
+BT /F1 10 Tf 60 326 Td (GPA: 7.5 / 10  |  101 credits) Tj ET
+BT /F1 11 Tf 60 306 Td (FPT Polyschool - Information Technology \(2022 - 2025\)) Tj ET
+BT /F1 10 Tf 60 292 Td (GPA: 7.4 / 10  |  124 credits) Tj ET
+BT /F1 9 Tf 60 55 Td (Placeholder CV \(ASCII\) - replace this file with your real TopCV PDF export.) Tj ET
+Q
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000003002 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+3099
+%%EOF
